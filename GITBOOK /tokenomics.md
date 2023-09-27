@@ -1,22 +1,4 @@
----
-description: The $EARL Blueprint
-cover: .gitbook/assets/Banner Promo 1.png
-coverY: 3.8613333333333335
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
 
 # Tokenomics
 
