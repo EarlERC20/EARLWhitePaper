@@ -1,21 +1,3 @@
----
-cover: .gitbook/assets/Banner Promo 1.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # MyNameIsEarl | $EARL | Roadmap.
 
@@ -75,4 +57,4 @@ layout:
 
 
 
-**Level 10 - $1B Market Cap**: To the moon! **Grand Jackpot**. **Second Grand KarmaFest Charity Rain with many surprises**. We did it!
+**Level 10 - $1B Market Cap**: To the moon! **Grand Jackpot**. **Second Grand KarmaFest Charity Rain with many surprises**. We did it! LETS FILM THE LAST SEASON OF MY NAME IS EARL!! 
