@@ -1,22 +1,6 @@
----
+
 description: MyNameIsEarl $EARL token whitepaper Introduction.
-cover: .gitbook/assets/Banner Promo 1.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
 
 # MyNameIsEarl $EARL Whitepaper
 
